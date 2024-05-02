@@ -1,0 +1,40 @@
+body {
+  font-family: var(--font-primary);
+  line-height: var(--lh-m);
+  color: var(--color-black);
+}
+
+main {
+  width: 90%;
+  margin: 0 auto;
+  padding: var(--m) 0;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-white);
+}
+
+h1 {
+  line-height: var(--lh-reg);
+  font-size: var(--m);
+  font-weight: var(--fw-light);
+}
+
+h2 {
+  line-height: var(--lh-reg);
+  font-size: var(--fs-s);
+  font-weight: var(--fw-light);
+}
+
+img {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+}
+
+p {
+  font-size: var(--fs-xs);
+  font-weight: var(--fw-light);
+  line-height: var(--lh-reg);
+}

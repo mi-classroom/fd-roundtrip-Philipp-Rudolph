@@ -1,0 +1,42 @@
+:root {
+  /* colors */
+  --color-red: #f21f31;
+  --color-yellow: #f5b121;
+  --color-choral: #f9622b;
+  --color-purple: #641e50;
+  --color-off-white: #fef9f2;
+  --color-grey: #b3ada5;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-green: #97a527;
+
+  /* sizes */
+  --xxs: 6px;
+  --xs: 12px;
+  --s: 18px;
+  --m: 24px;
+  --l: 36px;
+  --xl: 42px;
+  --xxl: 54px;
+  --max: 72px;
+
+  /* font */
+  --font-primary: "Roboto (Condensed)", sans-serif;
+
+  /* font weight */
+  --fw-light: 300;
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-bold: 700;
+
+  /* font size */
+  --fs-xs: var(--xs);
+  --fs-s: var(--s);
+  --fs-m: var(--m);
+
+  /* line height */
+  --lh-reg: 1;
+  --lh-xs: 1.2;
+  --lh-s: 1.4;
+  --lh-m: 1.6;
+}
